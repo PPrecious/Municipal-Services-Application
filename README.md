@@ -1,4 +1,4 @@
-# Municipal Services Application – README
+# Municipal Services Application 
 
 ## 1. Requirements
 
